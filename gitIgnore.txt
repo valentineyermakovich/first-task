@@ -1,0 +1,11 @@
+*.json
+*.cache
+*.info
+*.props
+*.targets
+*.dll
+*.txt
+*.exe
+*.pdb
+*.iml
+*.xml
