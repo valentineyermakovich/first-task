@@ -11,3 +11,16 @@ D:\GitHub\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.csproj.CoreCo
 D:\GitHub\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.dll
 D:\GitHub\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.pdb
 D:\GitHub\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.genruntimeconfig.cache
+D:\GitHub\first-task\Laba5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.exe
+D:\GitHub\first-task\Laba5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.deps.json
+D:\GitHub\first-task\Laba5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.json
+D:\GitHub\first-task\Laba5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.dev.json
+D:\GitHub\first-task\Laba5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.dll
+D:\GitHub\first-task\Laba5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.pdb
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.csprojAssemblyReference.cache
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfoInputs.cache
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfo.cs
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.csproj.CoreCompileInputs.cache
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.dll
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.pdb
+D:\GitHub\first-task\Laba5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.genruntimeconfig.cache

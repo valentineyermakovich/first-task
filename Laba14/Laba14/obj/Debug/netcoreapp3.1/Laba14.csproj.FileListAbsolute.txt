@@ -1,0 +1,13 @@
+D:\GitHub\first-task\Laba14\Laba14\bin\Debug\netcoreapp3.1\Laba14.exe
+D:\GitHub\first-task\Laba14\Laba14\bin\Debug\netcoreapp3.1\Laba14.deps.json
+D:\GitHub\first-task\Laba14\Laba14\bin\Debug\netcoreapp3.1\Laba14.runtimeconfig.json
+D:\GitHub\first-task\Laba14\Laba14\bin\Debug\netcoreapp3.1\Laba14.runtimeconfig.dev.json
+D:\GitHub\first-task\Laba14\Laba14\bin\Debug\netcoreapp3.1\Laba14.dll
+D:\GitHub\first-task\Laba14\Laba14\bin\Debug\netcoreapp3.1\Laba14.pdb
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.csprojAssemblyReference.cache
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.AssemblyInfoInputs.cache
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.AssemblyInfo.cs
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.csproj.CoreCompileInputs.cache
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.dll
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.pdb
+D:\GitHub\first-task\Laba14\Laba14\obj\Debug\netcoreapp3.1\Laba14.genruntimeconfig.cache

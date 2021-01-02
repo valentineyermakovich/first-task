@@ -1,0 +1,13 @@
+D:\GitHub\first-task\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.exe
+D:\GitHub\first-task\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.deps.json
+D:\GitHub\first-task\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.runtimeconfig.json
+D:\GitHub\first-task\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.runtimeconfig.dev.json
+D:\GitHub\first-task\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.dll
+D:\GitHub\first-task\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.pdb
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.csprojAssemblyReference.cache
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.AssemblyInfoInputs.cache
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.AssemblyInfo.cs
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.csproj.CoreCompileInputs.cache
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.dll
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.pdb
+D:\GitHub\first-task\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.genruntimeconfig.cache

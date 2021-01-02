@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfCircle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Circle>
+    <type>Oval</type>
+    <angleSum>360</angleSum>
+  </Circle>
+  <Circle>
+    <type>Ellipse</type>
+    <angleSum>360</angleSum>
+  </Circle>
+  <Circle>
+    <type>Circle</type>
+    <angleSum>360</angleSum>
+  </Circle>
+</ArrayOfCircle>

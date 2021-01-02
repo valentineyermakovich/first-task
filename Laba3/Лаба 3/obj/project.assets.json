@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Лаба 3\\Лаба 3\\Лаба 3.csproj",
+      "projectUniqueName": "D:\\GitHub\\first-task\\Laba3\\Лаба 3\\Лаба 3.csproj",
       "projectName": "Лаба 3",
-      "projectPath": "D:\\GitHub\\Лаба 3\\Лаба 3\\Лаба 3.csproj",
+      "projectPath": "D:\\GitHub\\first-task\\Laba3\\Лаба 3\\Лаба 3.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Лаба 3\\Лаба 3\\obj\\",
+      "outputPath": "D:\\GitHub\\first-task\\Laba3\\Лаба 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

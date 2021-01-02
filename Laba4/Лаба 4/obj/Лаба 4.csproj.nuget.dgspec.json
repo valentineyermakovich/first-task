@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Лаба 4\\Лаба 4\\Лаба 4.csproj": {}
+    "D:\\GitHub\\first-task\\Laba4\\Лаба 4\\Лаба 4.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Лаба 4\\Лаба 4\\Лаба 4.csproj": {
+    "D:\\GitHub\\first-task\\Laba4\\Лаба 4\\Лаба 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Лаба 4\\Лаба 4\\Лаба 4.csproj",
+        "projectUniqueName": "D:\\GitHub\\first-task\\Laba4\\Лаба 4\\Лаба 4.csproj",
         "projectName": "Лаба 4",
-        "projectPath": "D:\\GitHub\\Лаба 4\\Лаба 4\\Лаба 4.csproj",
+        "projectPath": "D:\\GitHub\\first-task\\Laba4\\Лаба 4\\Лаба 4.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Лаба 4\\Лаба 4\\obj\\",
+        "outputPath": "D:\\GitHub\\first-task\\Laba4\\Лаба 4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

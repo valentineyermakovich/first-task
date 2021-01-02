@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Laba5
 {
@@ -8,8 +7,8 @@ namespace Laba5
         static void Main(string[] args)
         {
             GeometricFigure circle = new Circle("Circle", 360);
-            GeometricFigure rectangle = new Rectangle("Rectangle", 360);
             circle.Show();
+            GeometricFigure rectangle = new Rectangle("Rectangle", 360);
             rectangle.Show();
             Console.WriteLine(rectangle is Rectangle);
             Console.WriteLine(rectangle is GeometricFigure);
@@ -68,15 +67,15 @@ namespace Laba5
     {
         public Circle(string TypeOfFigure, int AngleSum) : base(TypeOfFigure, AngleSum) { }
 
-        public void Show()
+        public void show()
         {
             Console.WriteLine($"Type: {type}\nSum of angles: {angleSum}");
         }
-        public void Input(string newType)
+        public void input(string newType)
         {
             type = newType;
         }
-        public void Resize(int newAngleSum)
+        public void resize(int newAngleSum)
         {
             angleSum = newAngleSum;
         }
@@ -169,6 +168,7 @@ namespace Laba5
                     GeometricFigure r = obj as Rectangle;
                     return Convert.ToString(r);
                 }
+
                 GeometricFigure gf = obj as GeometricFigure;
                 return Convert.ToString(gf);
             }

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Circles>
+  <Circle>
+    <Type>Oval</Type>
+    <Sum_of_Angles>360</Sum_of_Angles>
+  </Circle>
+  <Circle>
+    <Type>Ellipse</Type>
+    <Sum_of_Angles>360</Sum_of_Angles>
+  </Circle>
+  <Circle>
+    <Type>Circle</Type>
+    <Sum_of_Angles>360</Sum_of_Angles>
+  </Circle>
+</Circles>

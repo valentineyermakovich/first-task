@@ -1,0 +1,13 @@
+D:\GitHub\first-task\Laba10\Laba10\bin\Debug\netcoreapp3.1\Laba10.exe
+D:\GitHub\first-task\Laba10\Laba10\bin\Debug\netcoreapp3.1\Laba10.deps.json
+D:\GitHub\first-task\Laba10\Laba10\bin\Debug\netcoreapp3.1\Laba10.runtimeconfig.json
+D:\GitHub\first-task\Laba10\Laba10\bin\Debug\netcoreapp3.1\Laba10.runtimeconfig.dev.json
+D:\GitHub\first-task\Laba10\Laba10\bin\Debug\netcoreapp3.1\Laba10.dll
+D:\GitHub\first-task\Laba10\Laba10\bin\Debug\netcoreapp3.1\Laba10.pdb
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.csprojAssemblyReference.cache
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.AssemblyInfoInputs.cache
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.AssemblyInfo.cs
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.csproj.CoreCompileInputs.cache
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.dll
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.pdb
+D:\GitHub\first-task\Laba10\Laba10\obj\Debug\netcoreapp3.1\Laba10.genruntimeconfig.cache
